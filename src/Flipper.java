@@ -84,7 +84,7 @@ public class Flipper {
     }
 
     static char[][] getCases(){
-        String fileName= "input.txt";
+        String fileName= "largeInput.txt";
 
         String  line = null;
         char[][] cases = new char[101][];
